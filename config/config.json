@@ -1,0 +1,11 @@
+{
+  "DB_HOST": "193.112.105.129",
+  "DB_POST": 27017,
+  "DB_DATABASE": "zhongfm",
+  "DB_USER": "",
+  "DB_PASS": "",
+
+  "CLIENT_HOST": "localhost",
+  "CLIENT_PORT": 6699
+
+}
